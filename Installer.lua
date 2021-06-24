@@ -1,0 +1,2 @@
+
+shell.run("wget AutoStart")
